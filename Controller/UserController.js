@@ -3,10 +3,7 @@ const Users = require("../Models/UsersModel")
 const Errorhandler = require("../Utils/Errorhandler")
 const sendToken = require("../Utils/jwtToken")
 const sendEmail = require("../Utils/sendEmail");
-<<<<<<< HEAD
 
-=======
->>>>>>> 4433fc6c28fbe5c681c23de7c54c793adad6bf23
 const crypto = require("crypto");
 const cloudinary =require('cloudinary')
 
